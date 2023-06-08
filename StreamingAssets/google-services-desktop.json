@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "838634815351",
+    "project_id": "hardrun-8c338",
+    "storage_bucket": "hardrun-8c338.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838634815351:android:1e8624cdd3a177771f2b72",
+        "android_client_info": {
+          "package_name": "com.Argedor.HardRun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838634815351-o4f34gbhplc9v1a1j0g60k36b0u3rj9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJVJdGSaxh-iPqJZZtDWW8s-j3JOE5yNw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838634815351-o4f34gbhplc9v1a1j0g60k36b0u3rj9g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "838634815351-ksu8h3t6oaihoktsdmu33hr7fej8pmjc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.Argedor.HardRun"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
